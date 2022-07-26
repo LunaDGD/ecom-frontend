@@ -3,7 +3,8 @@
   "proxy": "http://127.0.0.1:3000",
   "version": "0.1.0",
   "engines": {
-    "node": ">=v14.15.1"
+    "node": "v14.15.1",
+    "npm": "7.5.3"
   },
   "private": true,
   "dependencies": {
